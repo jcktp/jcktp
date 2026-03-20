@@ -1,10 +1,10 @@
 # Hey, I'm Jorick 👋
 
-I've been working in the People domain for over a decade — currently at [Bolt](https://bolt.eu) in Tallinn, where I run Recruitment Operations.
+I've been working in the People domain for over a decade and am currently at [Bolt](https://bolt.eu) in Tallinn, where I run Recruitment Operations.
 
 Most of what I build here comes from wanting to make my own life easier: automating analytics and reporting workflows, and prototyping MVPs for platforms that enhance how hiring teams work. If something feels repetitive or clunky, I'll probably try to script it away.
 
-Outside of work — street photography, dance, and music.
+Outside of work i dablle in street photography, move through dancing, and play guitar/midi to generate music.
 
 ---
 
