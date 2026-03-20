@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Jorick 👋
 
-<!--
-**jcktp/jcktp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been working in the People domain for over a decade — currently at [Bolt](https://bolt.eu) in Tallinn, where I run Recruitment Operations.
 
-Here are some ideas to get you started:
+Most of what I build here comes from wanting to make my own life easier: automating analytics and reporting workflows, and prototyping MVPs for platforms that enhance how hiring teams work. If something feels repetitive or clunky, I'll probably try to script it away.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work — street photography, dance, and music.
+
+---
+
+### On here you'll find
+
+🔧 **[dbt-gen](https://github.com/jcktp/dbt-gen)** — AI-powered or fully local dbt model generator. Describe what you need, get production-ready SQL and YAML out.
+
+More to come as I clean up and open-source the various tools I've been building.
+
+---
+
+### Tech I reach for
+
+`Python` · `SQL` · `Local LLMs` · `Online LLMs`
+
+---
+
+### You can connect with me here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorickthijspolderman)
+[![Glass](https://img.shields.io/badge/Glass-photo-1a1a2e?style=flat)](https://glass.photo/jorick)
