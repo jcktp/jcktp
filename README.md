@@ -29,11 +29,6 @@
                   
   ### Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorickthijspolderman)
-  [!Substack](https://substack.com/@notjorick)
-  [![Glass](https://img.shields.io/badge/Glass-photo-1a1a2e?style=flat)](https://glass.photo/jorick)
-                                                                                                                                                                                 
-  Changes made:   
-  - Added Operator as the top project (above dbt-gen) with a link to the GitHub Pages landing page                                                                               
-  - Added TypeScript and Next.js to the tech stack                                                                                                                               
-  - Minor grammar fix ("outside of work I" → lowercase i → capital I, and removed the extra space before "i dabble")
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorickthijspolderman)                         
+  [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@notjorick)
+  [![Glass](https://img.shields.io/badge/Glass-photo-1a1a2e?style=flat)](https://glass.photo/jorick)                                                                  
