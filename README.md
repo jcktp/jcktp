@@ -29,7 +29,8 @@
                   
   ### Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorickthijspolderman)                         
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorickthijspolderman)
+  [!Substack](https://substack.com/@notjorick)
   [![Glass](https://img.shields.io/badge/Glass-photo-1a1a2e?style=flat)](https://glass.photo/jorick)
                                                                                                                                                                                  
   Changes made:   
