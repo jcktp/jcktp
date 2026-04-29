@@ -10,8 +10,7 @@
 
   ### On here you'll find
 
-  🖥️  **[Operator](https://jcktp.github.io/operator/)** — A local-first AI workspace for investigative journalism. Upload documents, get          
-  structured AI analysis — summaries, risks, entities, timelines. Runs entirely on your machine, no cloud required.                                                                                                                                                   
+  🖥️  **[Operator](https://jcktp.github.io/operator/)** — A local-first AI workspace for investigative journalism. Upload documents, get structured AI analysis — summaries,         risks, entities, timelines. Runs entirely on your machine, no cloud required.                                                                                                                                                   
                   
   🔧 **[dbt-gen](https://github.com/jcktp/dbt-gen)** — AI-powered or fully local dbt model generator. Describe what you need, get production-ready SQL and YAML out.             
   
